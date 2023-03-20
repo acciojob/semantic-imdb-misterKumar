@@ -19,10 +19,7 @@ body {
         color: #fff;
         padding: 10px;
       }
-	#nav-actor{
-		color:black;
-	}
-	#nav-quote{
+	#actor{
 		color:black;
 	}
       nav a {
